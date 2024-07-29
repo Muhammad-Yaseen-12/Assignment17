@@ -350,7 +350,7 @@ footer p {
     font-size: small;
 }
 
-@media (min-width:320px) and (max-width:767px) {
+@media (min-width:320px) and (max-width:480px) {
     .background1 {
         display: none;
     }
@@ -479,5 +479,7 @@ footer p {
         top: 157vh;
     }
     
+    
 
 }
+
